@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<curso>
+    <nombreCurso>2ºDAM</nombreCurso>
+    <estudiante>
+        <edad>19</edad>
+        <nombre>Alejandro</nombre>
+    </estudiante>
+    <estudiante>
+        <edad>30</edad>
+        <nombre>Pedro</nombre>
+    </estudiante>
+    <estudiante>
+        <edad>24</edad>
+        <nombre>Juan</nombre>
+    </estudiante>
+</curso>
